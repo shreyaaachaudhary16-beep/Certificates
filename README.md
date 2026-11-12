@@ -1,1 +1,4 @@
-# Certificates
+Python for Data Analysis (IBM)
+This certification verifies core proficiency in processing, analyzing, and extracting key insights from complex datasets using Python. Issued by IBM via Chandigarh University, the credential covers essential data manipulation techniques, exploratory data analysis (EDA), and data cleaning frameworks using key libraries such as Pandas and NumPy. Completing this course demonstrates a strong foundation in translating raw data into structured analysis to support business decision-making and operational reporting
+Big Data Technologies - Spark & Scala Fundamentals (IBM)
+This certification validates technical capability in handling large-scale distributed datasets using Apache Spark and Scala. Offered by IBM and Chandigarh University, the program focuses on big data architecture, parallel data processing, and enterprise data analytics fundamentals. Earning this credential highlights readiness to build efficient data pipelines, execute complex transformations, and work with big data infrastructure required in modern data engineering and advanced analytics roles.
